@@ -1,0 +1,6 @@
+{
+  "name": "Universal Multi-Calculator",
+  "description": "An elegant, comprehensive calculator suite featuring basic arithmetic, scientific calculation, unit conversion, live currency exchange, BMI tracking, age calculations, date math, loan schedules, discounts, and tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
